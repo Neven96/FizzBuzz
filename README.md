@@ -3,6 +3,7 @@
 Implemented languages:
 - C#
 - C++
+- C
 - Go
 - Java
 - JavaScript/HTML
